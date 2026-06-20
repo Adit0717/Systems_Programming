@@ -1,0 +1,42 @@
+# Compiled objects
+*.o
+*.s
+!Switch.s
+!Runtime.s
+
+# BLITZ disk images and executables
+DISK
+os
+game
+
+# C++ compiled binaries
+main
+Main
+
+# macOS
+.DS_Store
+*.swp
+*~
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+
+# IDE
+.vscode/
+.idea/
+
+# Office documents (reports kept separately)
+*.pdf
+*.docx
+*.xlsx
+
+# Large trace files (too big for git)
+trace1.txt
+trace2.txt
+Trace1.txt
+Trace2.txt
+
+# Jobs file
+Jobs.txt
