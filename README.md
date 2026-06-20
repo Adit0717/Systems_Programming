@@ -8,11 +8,11 @@ These projects demonstrate hands-on experience with the low-level systems concep
 
 | # | Project | Language | Key Concepts |
 |---|---------|----------|--------------|
-| 1 | [Hardware I/O — `GetCh()`](01-hardware-io/) | BLITZ Assembly | Polling I/O, serial device registers, stack frame management |
-| 2 | [Mutex Implementation](02-mutex-implementation/) | KPL (Kernel Programming Language) | Mutual exclusion, interrupt-based atomicity, race condition debugging |
-| 3 | [Monitor-Based Concurrency](03-monitor-concurrency/) | KPL | Condition variables (Mesa semantics), Producer-Consumer problem, bounded buffers |
-| 4 | [Multilevel Feedback Queue Scheduler](04-mlfq-scheduler/) | C++ | MLFQ scheduling, FCFS vs SJF, time quantum, demotion policies, dispatch ratios |
-| 5 | [Page Replacement Algorithms](05-page-replacement/) | C++ | Second Chance, LRU (timestamp), Enhanced Second Chance, inverted page tables |
+| 1 | [Hardware I/O — `GetCh()`](2-hardware-io/) | BLITZ Assembly | Polling I/O, serial device registers, stack frame management |
+| 2 | [Mutex Implementation](3-mutex-implementation/) | KPL (Kernel Programming Language) | Mutual exclusion, interrupt-based atomicity, race condition debugging |
+| 3 | [Monitor-Based Concurrency](4-monitor-concurrency/) | KPL | Condition variables (Mesa semantics), Producer-Consumer problem, bounded buffers |
+| 4 | [Multilevel Feedback Queue Scheduler](5-mlfq-scheduler/) | C++ | MLFQ scheduling, FCFS vs SJF, time quantum, demotion policies, dispatch ratios |
+| 5 | [Page Replacement Algorithms](6-page-replacement/) | C++ | Second Chance, LRU (timestamp), Enhanced Second Chance, inverted page tables |
 
 ## Technology Context
 
